@@ -66,7 +66,7 @@ const Page = () => {
         <BottomSheet2
           onClose={handleCloseBottomSheet2}
           service="Example Service"
-          salon={{ salon_share_link: "https://example.com" }}
+          salon={{ salon_share_link: "/loading" }}
         />
       )}
 
